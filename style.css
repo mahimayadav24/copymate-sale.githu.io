@@ -1003,6 +1003,10 @@ ol, ul {
         -ms-grid-columns: (1fr)[1];
         grid-template-columns: repeat(1, 1fr);
     }
+
+    .purple {
+        padding: 10px 20px;
+    }
 }
 
 @media screen and (max-width: 640px) {
